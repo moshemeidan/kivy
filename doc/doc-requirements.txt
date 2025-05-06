@@ -4,3 +4,4 @@ sphinxcontrib-actdiag
 sphinxcontrib-blockdiag
 sphinxcontrib-nwdiag
 sphinxcontrib-seqdiag
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
